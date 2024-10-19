@@ -1,0 +1,35 @@
+body {
+    background-color: #bce0f1;
+}
+
+p {
+    cursor: pointer;
+    display: block;
+    transition: 0.3 s;
+    font-family: "Kablammo", system-ui;
+    padding-top: 40px;
+    font-size: 60px;
+    text-align: center;
+    color: #0a4495;
+}
+
+p:hover {
+    transform: scale(1.1);
+}
+
+img {
+    cursor: pointer;
+    display: block;
+    transition: 0.3 s;
+    display: block;
+    margin: 0 auto;
+    height: 120px;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+lol {
+    width: 300px;
+}
